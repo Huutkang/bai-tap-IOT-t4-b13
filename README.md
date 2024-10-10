@@ -37,8 +37,3 @@ This graph shows the changes in light intensity captured by the LDR sensor over 
 3. Install the **Teleplot** extension for VSCode.
 4. Run the project and open the **Teleplot** extension. Select the correct COM port and baud rate (115200).
 5. Observe the real-time light intensity graph.
-
-## Project Screenshot
-
-![Teleplot Screenshot](Screenshot.png)
-
